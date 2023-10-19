@@ -1,4 +1,4 @@
-![Grafik 1](https://github.com/SholehUyee/Fuzzy_Pemilihan_Juara_Fotografi/assets/120776794/b593a4a1-592e-4cd4-9c88-0139382a05f8)# Fuzzy_Pemilihan_Juara_Fotografi
+# Fuzzy_Pemilihan_Juara_Fotografi
 Sistem Pengambilan Keputusan Menggunakan Logika Fuzzy Untuk Pemilihan Pemenang Lomba Fotografi Menggunakan Metode Tahani
 # Variabel Semesta Fotografer Terbaik
 
