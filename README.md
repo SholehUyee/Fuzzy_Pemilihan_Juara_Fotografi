@@ -1,4 +1,4 @@
-# Fuzzy_Pemilihan_Juara_Fotografi
+![Grafik 1](https://github.com/SholehUyee/Fuzzy_Pemilihan_Juara_Fotografi/assets/120776794/b593a4a1-592e-4cd4-9c88-0139382a05f8)# Fuzzy_Pemilihan_Juara_Fotografi
 Sistem Pengambilan Keputusan Menggunakan Logika Fuzzy Untuk Pemilihan Pemenang Lomba Fotografi Menggunakan Metode Tahani
 # Variabel Semesta Fotografer Terbaik
 
@@ -21,7 +21,13 @@ Nama Variabel	Semesta Pembicaraan	Himpunan Fuzzy :
 ![Grafik 4](https://github.com/SholehUyee/Fuzzy_Pemilihan_Juara_Fotografi/assets/120776794/79de3548-1a19-4110-a9a4-1e7286366c0a)
 ![Grafik 5](https://github.com/SholehUyee/Fuzzy_Pemilihan_Juara_Fotografi/assets/120776794/291540b8-2e2b-46df-b3bc-98bd25453394)
 
+# For Access Project
+Download file code Lomba Fotografi
+Download file dataset
+After Download open code with anaconda - jupyter network / jupiter network  / Google Collab
+Enjoys
+
 Create Using Anaconda Jupiter Network 
 
 Projek Tugas Kuliah Matkul Logika Fuzzy 
-c 2021 - Ilham Sholeh
+© 2021 - Ilham Sholeh
