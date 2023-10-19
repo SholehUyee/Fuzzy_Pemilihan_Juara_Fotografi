@@ -22,10 +22,10 @@ Nama Variabel	Semesta Pembicaraan	Himpunan Fuzzy :
 ![Grafik 5](https://github.com/SholehUyee/Fuzzy_Pemilihan_Juara_Fotografi/assets/120776794/291540b8-2e2b-46df-b3bc-98bd25453394)
 
 # For Access Project
-Download file code Lomba Fotografi
-Download file dataset
-After Download open code with anaconda - jupyter network / jupiter network  / Google Collab
-Enjoys
+- Download file code Lomba Fotografi
+- Download file dataset
+- After Download open code with anaconda - jupyter network / jupiter network  / Google Collab
+- Enjoys
 
 Create Using Anaconda Jupiter Network 
 
