@@ -30,4 +30,5 @@ Nama Variabel	Semesta Pembicaraan	Himpunan Fuzzy :
 Create Using Anaconda Jupiter Network 
 
 Projek Tugas Kuliah Matkul Logika Fuzzy 
+
 © 2021 - Ilham Sholeh
